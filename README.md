@@ -2,6 +2,7 @@ UNIT PLAN NAME
 by LISA BAERGA
 
 ##General Overview
+<br>
 The Choose-Your-Own-Adventure Project (CYOAP) is an end-of-course project where students will…
 Learn new content on their own
 Apply the content they learn each day to their own programs

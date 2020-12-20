@@ -52,7 +52,10 @@ Total length: 4 - ?? Weeks (This is a flexible unit timewise, which can be lengt
 
 
 ## Assesments
-The final project is itself the assessment, and is comprised of 3 components:
+The final project is itself the assessment, and is comprised of 4 components:
+**The Dictionary** which documents students' learning and asks them to highlight several new skills
+they have learned, as well as to compare them, "translate" them, into the language they learned 
+during the bulk of the year.
 **The Blog**, which documents students' process and learning throughout the unit, and which is
 the most important part of the project, because it documents what actions students took
 learn, what they learned from those actions, and what development tasks students performed
@@ -62,10 +65,26 @@ each day, as they worked to implement what they learned into their program,
 work and learing to their peers in some way.
 
 ### Grade breakdown
-50% Blog
- - 10%: project overview page
- - 40%: many entries; frequency TBD <br>
+25% Into-Original Language Dictionary/Comparison
+25% Blog
+ - project overview page
+ - many entries; frequency TBD <br>
 
 25% Product <br>
 25% Presentation
 
+N.B. This project is written up and makes references to Snap as students' language of origin <br>
+(i.e. the language they learned in primarily throughout the year). For those using other languages,<br>
+it is possible for students to complete this assignment and to translate into and make comparisons<br>
+between one text-based language and another. This component was included and emphasized<br>
+in order to help students make connections as they moved from a block-based to a text-based language and you<br>
+may feel that it is less necessary when moving between text-based languages. Note, however, that even students <br>
+who used web development languages were asked to make these connections to Snap. The comparison<br>
+and critical-thinking was emphasized. Alternatively, if this is not felt to be necessary, you can <br>
+omit this requirement and simply emphasize student process and learning as paramount, increasing grade <br>
+percentage in this area to 50% to make up for the omission of this component. It is also possible to simply<br>
+weigh each component as equal in nature, with each comprising 33%. 
+
+Note, also, it's suggested to create a calendar for students to make reference to as they work. This may be <br>
+some students' first attempt at self-directed learning and students may also not be skilled at executive-fuctioning<br>
+skills, like organization and time-management. This is a good opportunity to explicitly teach these skills.

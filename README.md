@@ -47,6 +47,15 @@ Suggested areas to learn languages include:
 [HTML](https://www.w3schools.com/html/)
 [CSS](https://www.w3schools.com/html/html_css.asp)
 
+### Exemplars:
+[Project Proposal Exemplar](!#)
+[Dictionary Exemplar]()
+
+### Rubrics:
+Rubrics for each of the four components are included.
+In PDF [here]()
+In Word doc [here[().
+
 ## Lessons
 Total length: 4 - ?? Weeks (This is a flexible unit timewise, which can be lengthened to provide students more time to learn and to create more in-depth projects.)
 

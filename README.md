@@ -41,10 +41,11 @@ Program Language(s) used for this project will vary from student to student, but
 Suggested areas to learn languages include:
 
 ### W3 Schools: 
-[Python](https://www.w3schools.com/python/)
-[Java](https://www.w3schools.com/js/DEFAULT.asp)
-[JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
-[Python](https://www.w3schools.com/python/)
+[Python](https://www.w3schools.com/python/)<br>
+[Java](https://www.w3schools.com/js/DEFAULT.asp)<br>
+[JavaScript](https://www.w3schools.com/js/DEFAULT.asp)<br>
+[HTML](https://www.w3schools.com/html/)
+[CSS](https://www.w3schools.com/html/html_css.asp)
 
 ## Lessons
 Total length: 4 - ?? Weeks (This is a flexible unit timewise, which can be lengthened to provide students more time to learn and to create more in-depth projects.)
@@ -52,17 +53,17 @@ Total length: 4 - ?? Weeks (This is a flexible unit timewise, which can be lengt
 
 
 ## Assesments
-The final project is itself the assessment, and is comprised of 4 components:
-**The Dictionary** which documents students' learning and asks them to highlight several new skills
-they have learned, as well as to compare them, "translate" them, into the language they learned 
-during the bulk of the year.
-**The Blog**, which documents students' process and learning throughout the unit, and which is
-the most important part of the project, because it documents what actions students took
-learn, what they learned from those actions, and what development tasks students performed
-each day, as they worked to implement what they learned into their program,
-**The Program**, the parameters of which are open-ended to allow students choice, and
-**The Presentation**, the last portion of the project, which requires students to present their
-work and learing to their peers in some way.
+The final project is itself the assessment, and is comprised of 4 components:<br>
+**The Dictionary** which documents students' learning and asks them to highlight several new skills<br>
+they have learned, as well as to compare them, "translate" them, into the language they learned <br>
+during the bulk of the year.<br>
+**The Blog**, which documents students' process and learning throughout the unit, and which is<br>
+the most important part of the project, because it documents what actions students took<br>
+learn, what they learned from those actions, and what development tasks students performed<br>
+each day, as they worked to implement what they learned into their program,<br>
+**The Program**, the parameters of which are open-ended to allow students choice, and<br>
+**The Presentation**, the last portion of the project, which requires students to present their <br>
+work and learing to their peers in some way.<br>
 
 ### Grade breakdown
 25% Into-Original Language Dictionary/Comparison

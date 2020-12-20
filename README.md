@@ -1,4 +1,4 @@
-UNIT PLAN NAME
+Choose Your Own Adventur (in Learning) Program
 by LISA BAERGA
 
 ## General Overview
@@ -18,7 +18,7 @@ than other states, we usually wind up with approximately a month of time *after*
 has been taken, but before the school year ends. This is too much time to do more traditional end-of-year light-weight activities. Therefore, this project is designed to engage students during this time, as well as to help them to add to their portfolio of projects.
 
 ## Standards Referenced
-The standards referenced here are the State of New York's newly adopted standards.
+The standards referenced here are the State of New York's newly adopted [standards for high school](http://www.nysed.gov/common/nysed/files/programs/curriculum-instruction/computer-science-digital-fluency-standards-9-12.pdf).
 Specifically, the standards addressed in this unit are:
 
 ### Digital Literacy
@@ -32,15 +32,39 @@ Specifically, the standards addressed in this unit are:
 9-12.CT.10 Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 
 ## Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+The tools used for this project are:
+[github.com](https://github.com/) to provide version control and to house the final project and provide a location for students' documentation and blog.
+[repl.it](https://repl.it/) or some other IDE, such as cloud9, atom, etc.
+Program Language(s) used for this project will vary from student to student, but must be approved by the teacher.
 
 ## Resources
-(include any links/books/readings to be used during this unit)
+Suggested areas to learn languages include:
+
+### W3 Schools: 
+[Python](https://www.w3schools.com/python/)
+[Java](https://www.w3schools.com/js/DEFAULT.asp)
+[JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+[Python](https://www.w3schools.com/python/)
 
 ## Lessons
-Total lenght: X Weeks
+Total length: 4 - ?? Weeks (This is a flexible unit timewise, which can be lengthened to provide students more time to learn and to create more in-depth projects.)
 
-(list each lesson with main topic(s))
+
 
 ## Assesments
-(list summative and/or formative assessments used)
+The final project is itself the assessment, and is comprised of 3 components:
+**The Blog**, which documents students' process and learning throughout the unit, and which is
+the most important part of the project, because it documents what actions students took
+learn, what they learned from those actions, and what development tasks students performed
+each day, as they worked to implement what they learned into their program,
+**The Program**, the parameters of which are open-ended to allow students choice, and
+**The Presentation**, the last portion of the project, which requires students to present their
+work and learing to their peers in some way.
+
+### Grade breakdown
+50% Blog
+ - 10%: project overview page
+ - 40%: many entries; frequency TBD
+25% Product
+25% Presentation
+

@@ -66,6 +66,6 @@ work and learing to their peers in some way.
  - 10%: project overview page
  - 40%: many entries; frequency TBD <br>
 
-25% Product
+25% Product <br>
 25% Presentation
 
